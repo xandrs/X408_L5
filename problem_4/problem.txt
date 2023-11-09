@@ -1,0 +1,9 @@
+Problem 4:
+
+vagrant up
+
+Should bring up a VM instance that has is accessible via a private IP.  It is broken.
+
+Please...
+A. Identify the bug
+B. Suggest a fix for the bug

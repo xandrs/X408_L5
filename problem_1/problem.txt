@@ -1,0 +1,14 @@
+Probalem 1:
+
+bash addition.sh X + Y
+
+Should print the value of X+Y to the screen.  It is broken.
+
+Please
+
+A. Identify the bug
+B. Suggest a fix for the bug
+
+
+
+HINT RULE1

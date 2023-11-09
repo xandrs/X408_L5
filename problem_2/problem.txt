@@ -1,0 +1,12 @@
+Problem 2:
+
+bash add_header.sh
+
+Should look within the current directory for all the C files and then add a header
+**Property of Blaa.co 1882**
+To the begining of each c file.  It is broken.
+
+
+Please...
+A. Identify the bug
+B. Suggest a fix for the bug

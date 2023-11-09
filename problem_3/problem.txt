@@ -1,0 +1,9 @@
+Problem 3:
+
+bash save_my_notes.sh
+
+Should prompt the user for a name for the note, then for the note content and then write the note content to a file with of the the user specified.  It is broken.
+
+Please...
+A. Identify the bug
+B. Suggest a fix for the bug
