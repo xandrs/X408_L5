@@ -1,4 +1,4 @@
-Probalem 1:
+Problem 1:
 
 bash addition.sh X + Y
 
