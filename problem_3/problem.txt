@@ -7,3 +7,9 @@ Should prompt the user for a name for the note, then for the note content and th
 Please...
 A. Identify the bug
 B. Suggest a fix for the bug
+==============
+1. change #!/usr/bin/bash     to      #!/bin/bash
+2. second read command is incorrectly assigning the entered content to the variable name, should be 
+variable content
+==============
+

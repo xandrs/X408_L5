@@ -8,6 +8,10 @@ Please
 
 A. Identify the bug
 B. Suggest a fix for the bug
+==============
+1. change #!/usr/bin/bash     to      #!/bin/bash
+2. typo: change source math_function to source math_functions
+==============
 
 
 
